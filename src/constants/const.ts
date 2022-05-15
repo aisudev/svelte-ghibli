@@ -1,0 +1,1 @@
+export const LIMIT_MOVIE: number = 250;
